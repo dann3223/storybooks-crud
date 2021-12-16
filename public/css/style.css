@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+p {
+  margin: 10px 0 !important;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.login-container {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.card-content h3 {
+  font-weight: 900;
+}
+
+.brand-logo {
+  font-weight: 900;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
